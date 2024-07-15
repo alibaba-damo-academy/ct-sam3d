@@ -22,7 +22,10 @@ Please download our model from 🤖️[ModelScope](https://modelscope.cn/models/
 ## Quick Start
 Please start your interactive segmentation journey from our [Notebook](ct_sam/notebooks/visualization.ipynb).
 
-
+Tool Usage
+```
+Left-click to add a positive point, and right-click to add a negative point.
+```
 ## Demo
 <img src=ct_sam/examples/demo.gif width=100% />
 
