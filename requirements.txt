@@ -1,0 +1,13 @@
+easydict
+numpy==1.22.4
+openpyxl
+SimpleITK==2.2.1
+torch==2.0.0
+torchvision
+markdown==3.2
+jupyterlab==3.6.3
+imjoy-jupyterlab-extension
+# itkwidgets[lab]>=1.0a49
+monai
+timm
+ipywidgets
