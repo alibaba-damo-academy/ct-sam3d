@@ -4,7 +4,6 @@ Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentatio
 ## Overview
 ![architecture](ct_sam/figures/arch.png)
 
-
 ## Installation
 ```bash
 git clone https://github.com/henguo/ct-sam3d.git
@@ -19,6 +18,13 @@ pip install numpy==1.22.4
 
 ## Download Model
 Please download our model from 🤖️[ModelScope](https://modelscope.cn/models/xiuan123/CT-SAM3D).
+
+## Quick Start
+Please start your interactive segmentation journey from our [Notebook](ct_sam/notebooks/visualization.ipynb).
+
+
+## Demo
+<img src=ct_sam/examples/demo.gif width=100% />
 
 ## License
 CT-SAM3D is released under the Apache 2.0 license.
