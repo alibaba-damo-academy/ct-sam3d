@@ -26,6 +26,10 @@ Tool Usage
 ```
 Left-click to add a positive point, and right-click to add a negative point.
 ```
+
+## Download Dataset
+If you are interested in the enhanced TotalSeg++ dataset with 107 anatomical structures, you can also download it from 🤖️[ModelScope](https://modelscope.cn/datasets/xiuan123/TotalSegPlusPlus). Please note that all images and masks have been rotated into RAI orientation, and the abnormal case `s0341` has been fixed.
+
 ## Demo
 <img src=ct_sam/examples/demo.gif width=100% />
 
